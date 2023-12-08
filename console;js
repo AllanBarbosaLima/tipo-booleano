@@ -1,0 +1,12 @@
+//console => mandar dados para fora 
+// log => registro
+
+const minhavar = true
+ 
+console.log(2015)
+console.log("eu sou um texto")
+console.log(true)
+
+// Tratamento De Erro
+
+console.error("deu erro");

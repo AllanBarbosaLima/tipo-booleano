@@ -1,0 +1,22 @@
+// == comparação implicita 
+
+const numero = 5;
+const texto = "5"
+
+console.log(numero == texto);
+console.log(numero === texto);
+
+// typeof
+
+console.log (typeof numero);
+console.log (typeof texto);
+
+// == Só compára o valor
+// === Compara o valor e o tipo de dado
+
+// conversão explicita
+
+number()
+String()
+
+

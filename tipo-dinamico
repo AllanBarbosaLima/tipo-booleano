@@ -1,0 +1,8 @@
+// Tipagem Dinãmica
+// untyped
+
+let minhaVar = 743;
+
+minhaVar = "texto";
+
+minhaVar = true;
